@@ -1,6 +1,6 @@
-# Internet-Banking-Application
+# Banking-Supervision-Application
 
-This Internet Banking Application is a comprehensive, secure web-based platform designed for managing various banking operations online. It offers a user-friendly interface for customers and admins to perform essential banking tasks efficiently. The application includes features for account management, transaction handling, user authentication, and more, ensuring a seamless banking experience.
+This Banking Supervision Application is a comprehensive, secure web-based platform designed for managing various banking operations online. It offers a user-friendly interface for customers and admins to perform essential banking tasks efficiently. The application includes features for account management, transaction handling, user authentication, and more, ensuring a seamless banking experience.
 
 Key Features:
 
